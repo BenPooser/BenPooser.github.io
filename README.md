@@ -13,3 +13,8 @@ To push changes to the app
 ### `npm run deploy`
 
 To deploy changes on the app to Github Pages
+
+
+# Template
+
+https://www.youtube.com/watch?v=7WwtzsSHdpI

@@ -11,9 +11,11 @@ export default function Experience() {
     let schoolIconStyles = { background: "#f9c74f" };
 
     return (
-        <div className="experience" id="experience">
+        <div className="experience" id="my_journey">
             <h1>My Journey</h1>
-            <VerticalTimeline>
+            <VerticalTimeline
+                layout="1-column-left"
+            >
         {timelineElements.map((element) => {
           let isWorkIcon = element.icon === "work";
           let showButton =

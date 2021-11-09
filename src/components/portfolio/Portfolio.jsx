@@ -50,7 +50,7 @@ export default function Portfolio() {
     },[selected])
 
     return (
-        <div className="portfolio" id="portfolio">
+        <div className="portfolio" id="skills">
             <h1>Skills</h1>
             <ul>
                 {list.map((item)=>(

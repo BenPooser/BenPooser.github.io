@@ -14,6 +14,7 @@ To push changes to the app
 
 To deploy changes on the app to Github Pages
 
+Make sure to add custom domain after each npm run deploy
 
 # Templates
 

@@ -15,6 +15,7 @@ To push changes to the app
 To deploy changes on the app to Github Pages
 
 
-# Template
+# Templates
 
 https://www.youtube.com/watch?v=7WwtzsSHdpI
+https://www.youtube.com/watch?v=-rnkToU2_lw

@@ -1,15 +1,33 @@
 let timelineElements = [
   {
     id: 1,
-    title: "Software Engineer - Manhattan Associates",
+    title: "Software Engineer - Microsoft",
     location: "Atlanta, Georgia",
     description:
-      "Joined the Movers team heading the Putaway component, collaborating with team members overseas. Practice Object-Oriented Programming techniques using Java and Spring Boot, creating JUnit tests. Helped implement the compatibility of multiple items at once in the Putaway component using Agile. Awarded Research & Development Team of the Quarter in April 2021",
-    date: "March 2021 - Today",
+      "Joined the One Fleet Containers Team under Azure Core",
+    date: "May 2022 - Today",
     icon: "work",
   },
   {
     id: 2,
+    title: "Software Developer - IBM",
+    location: "San Jose, California",
+    description:
+      "Joined the Digital Business Automation team working on the Cloud Pak for Business Automation. Worked in the back-end, learning how to deploy environments through Kubernetes and modifying Yaml files",
+    date: "January 2022 - May 2022",
+    icon: "work",
+  },
+  {
+    id: 3,
+    title: "Software Engineer - Manhattan Associates",
+    location: "Atlanta, Georgia",
+    description:
+      "Joined the Movers team heading the Putaway component, collaborating with team members overseas. Practice Object-Oriented Programming techniques using Java and Spring Boot, creating JUnit tests. Helped implement the compatibility of multiple items at once in the Putaway component using Agile. Awarded Research & Development Team of the Quarter in April 2021",
+    date: "March 2021 - January 2022",
+    icon: "work",
+  },
+  {
+    id: 4,
     title: "Georgia Institue of Technology",
     location: "Atlanta, Georgia",
     description:
@@ -18,7 +36,7 @@ let timelineElements = [
     icon: "school",
   },
   {
-    id: 3,
+    id: 5,
     title: "DTT Enablement - Chick-fil-A Corporate",
     location: "Atlanta, Georgia",
     description:
@@ -27,7 +45,7 @@ let timelineElements = [
     icon: "work",
   },
   {
-    id: 4,
+    id: 6,
     title: "University of Georgia",
     location: "Athens, Georgia",
     description:
